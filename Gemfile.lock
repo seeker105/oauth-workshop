@@ -172,6 +172,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  capybara
   coffee-rails (~> 4.0.0)
   faker
   figaro
